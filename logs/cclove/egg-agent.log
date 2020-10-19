@@ -1,0 +1,11 @@
+2020-10-19 14:58:59,733 INFO 8064 [egg:logger] init all loggers with options: {"dir":"C:\\test\\myegg\\logs\\cclove","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cclove-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-10-19 14:58:59,740 INFO 8064 [egg:core] dump config after load, 3ms
+2020-10-19 14:58:59,782 INFO 8064 [egg-watcher] Start watching: ["C:\\test\\myegg\\app","C:\\test\\myegg\\config","C:\\test\\myegg\\mocks","C:\\test\\myegg\\mocks_proxy","C:\\test\\myegg\\app.js"]
+2020-10-19 14:58:59,782 INFO 8064 [egg-watcher] Start watching: "C:\\test\\myegg\\app"
+2020-10-19 14:58:59,782 INFO 8064 [egg-watcher] Start watching: "C:\\test\\myegg\\config"
+2020-10-19 14:58:59,782 INFO 8064 [egg-watcher] Start watching: "C:\\test\\myegg\\mocks"
+2020-10-19 14:58:59,782 INFO 8064 [egg-watcher] Start watching: "C:\\test\\myegg\\mocks_proxy"
+2020-10-19 14:58:59,782 INFO 8064 [egg-watcher] Start watching: "C:\\test\\myegg\\app.js"
+2020-10-19 14:58:59,783 INFO 8064 [egg-watcher:agent] watcher start success
+2020-10-19 14:58:59,793 INFO 8064 [egg:core] dump config after ready, 8ms
+2020-10-19 14:59:00,586 INFO 8064 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"C:\\test\\myegg\\app\\public","stat":{"dev":207455458,"mode":16822,"nlink":1,"uid":0,"gid":0,"rdev":0,"blksize":4096,"ino":562949954313186,"size":0,"blocks":0,"atimeMs":1603090740584.861,"mtimeMs":1603090740584.861,"ctimeMs":1603090740584.861,"birthtimeMs":1603090740584.861,"atime":"2020-10-19T06:59:00.585Z","mtime":"2020-10-19T06:59:00.585Z","ctime":"2020-10-19T06:59:00.585Z","birthtime":"2020-10-19T06:59:00.585Z"},"remove":false,"isDirectory":true,"isFile":false}

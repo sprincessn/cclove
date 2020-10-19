@@ -1,0 +1,14 @@
+2020-10-19 14:59:00,453 INFO 16192 [egg:logger] init all loggers with options: {"dir":"C:\\test\\myegg\\logs\\cclove","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"cclove-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-10-19 14:59:00,479 INFO 16192 [egg-multipart] stream mode enable
+2020-10-19 14:59:00,584 INFO 16192 [egg-static] starting static serve /public/ -> C:\test\myegg\app\public
+2020-10-19 14:59:00,587 INFO 16192 [egg-security] use csrf middleware
+2020-10-19 14:59:00,588 INFO 16192 [egg-security] use methodnoallow middleware
+2020-10-19 14:59:00,588 INFO 16192 [egg-security] use noopen middleware
+2020-10-19 14:59:00,589 INFO 16192 [egg-security] use nosniff middleware
+2020-10-19 14:59:00,589 INFO 16192 [egg-security] use xssProtection middleware
+2020-10-19 14:59:00,590 INFO 16192 [egg-security] use xframe middleware
+2020-10-19 14:59:00,590 INFO 16192 [egg-security] use dta middleware
+2020-10-19 14:59:00,590 INFO 16192 [egg-security] compose 7 middlewares into one security middleware
+2020-10-19 14:59:00,597 INFO 16192 [egg:core] dump config after load, 3ms
+2020-10-19 14:59:00,606 INFO 16192 [egg-watcher:application] watcher start success
+2020-10-19 14:59:00,612 INFO 16192 [egg:core] dump config after ready, 4ms

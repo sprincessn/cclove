@@ -1,0 +1,264 @@
+{
+  "keys": "C:\\test\\myegg\\config\\config.default.js",
+  "session": {
+    "maxAge": "C:\\test\\myegg\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "C:\\test\\myegg\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "C:\\test\\myegg\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "C:\\test\\myegg\\node_modules\\egg-session\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js",
+      "type": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "C:\\test\\myegg\\node_modules\\egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "C:\\test\\myegg\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "C:\\test\\myegg\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "C:\\test\\myegg\\node_modules\\egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "C:\\test\\myegg\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "C:\\test\\myegg\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "C:\\test\\myegg\\node_modules\\egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "C:\\test\\myegg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "C:\\test\\myegg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "C:\\test\\myegg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "C:\\test\\myegg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "C:\\test\\myegg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "C:\\test\\myegg\\node_modules\\egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "C:\\test\\myegg\\node_modules\\egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "C:\\test\\myegg\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "C:\\test\\myegg\\node_modules\\egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "C:\\test\\myegg\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "C:\\test\\myegg\\node_modules\\egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "C:\\test\\myegg\\node_modules\\egg-schedule\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "C:\\test\\myegg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "C:\\test\\myegg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "C:\\test\\myegg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "C:\\test\\myegg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "C:\\test\\myegg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "C:\\test\\myegg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "C:\\test\\myegg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "C:\\test\\myegg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "C:\\test\\myegg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "C:\\test\\myegg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "C:\\test\\myegg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "C:\\test\\myegg\\node_modules\\egg-multipart\\config\\config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "C:\\test\\myegg\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "C:\\test\\myegg\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "C:\\test\\myegg\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "C:\\test\\myegg\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "C:\\test\\myegg\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideIgnore": "C:\\test\\myegg\\node_modules\\egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "C:\\test\\myegg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "C:\\test\\myegg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "C:\\test\\myegg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "C:\\test\\myegg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "C:\\test\\myegg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "C:\\test\\myegg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "C:\\test\\myegg\\node_modules\\egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "C:\\test\\myegg\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "C:\\test\\myegg\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "C:\\test\\myegg\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "C:\\test\\myegg\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "C:\\test\\myegg\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "C:\\test\\myegg\\node_modules\\egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "C:\\test\\myegg\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "C:\\test\\myegg\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "C:\\test\\myegg\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "C:\\test\\myegg\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "C:\\test\\myegg\\node_modules\\egg-view\\config\\config.default.js"
+  },
+  "env": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+  "name": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+  "pkg": {
+    "name": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "version": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "description": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "main": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "author": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "license": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "strict": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+      "depth": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "onerror": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "env": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "level": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "C:\\test\\myegg\\node_modules\\egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "request": {
+      "timeout": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "logging": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+      "port": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js"
+  },
+  "onClientError": "C:\\test\\myegg\\node_modules\\egg\\config\\config.default.js"
+}
